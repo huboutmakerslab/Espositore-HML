@@ -1,0 +1,1 @@
+"Espositore HML" di [Hubout Makers Lab] (https://www.facebook.com/huboutmakerslab) disegnato e progettato da [Andrea Mantelli] (https://www.facebook.com/amantelli) e [Veronica Salerio] (https://www.facebook.com/veronica.salerio) è distribuio con Licenza [CC BY SA 4.0] (http://creativecommons.org/licenses/by-sa/4.0/legalcode)

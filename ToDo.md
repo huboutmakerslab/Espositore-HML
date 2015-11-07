@@ -1,0 +1,4 @@
+- aggiungi BOM
+- aggiungi iscruzioni montaggio per le parti 3D
+- aggiungi isctruzioni montaggio parti in legno
+- aggiungi immagini
